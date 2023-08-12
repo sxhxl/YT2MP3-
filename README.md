@@ -9,4 +9,4 @@ cd YT2MP3-/
 
 python3 -m pip install -r requirements.txt
 
-python3 yt2mp3.py
+python3 dwnld.py
